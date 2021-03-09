@@ -32,11 +32,11 @@
                     <label for="">Lesson</label>
                     <select class="form-select form-control" name="lesson" class="form-control">
                         <option selected>Choose Lesson :</option>
-                        <option value="1">Web Programming</option>
-                        <option value="2">Database</option>
-                        <option value="3">Statiska</option>
-                        <option value="4">PKN</option>
-                        <option value="5">UI/UX</option>
+                        <option value="Web Programming">Web Programming</option>
+                        <option value="Database">Database</option>
+                        <option value="Statiska">Statiska</option>
+                        <option value="PKN">PKN</option>
+                        <option value="UI/UX">UI/UX</option>
                     </select>
                     <div class="form-group">
                         <label for=""> UTS Value</label>
